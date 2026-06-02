@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'Masudur Rahaman</h1>
+<h3 align="center">Full Stack Developer | CSE Student | Building KeepInMind</h3>
 
-<!--
-**masudurrahamanrm/masudurrahamanrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+KeepInMind;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+```javascript
+const prince = {
+  role: "Full Stack Developer",
+  education: "B.Tech CSE",
+  project: "KeepInMind",
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB", "Firebase"],
+  passion: "Building useful products"
+};
